@@ -5,6 +5,7 @@ import About from './sections/About'
 import Skills from './sections/Skills'
 import Projects from './sections/Projects'
 import Education from './sections/Education'
+import Certificates from './sections/Certificates'
 import Resume from './sections/Resume'
 import Contact from './sections/Contact'
 import Footer from './components/Footer'
@@ -42,6 +43,7 @@ export default function App() {
         <Skills />
         <Projects />
         <Education />
+        <Certificates />
         <Resume />
         <Contact />
       </main>
